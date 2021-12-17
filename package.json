@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-playground",
+  "version": "0.1.0",
+  "description": "A project to learn nuxt and it's core features",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-machuletz/nuxt-playground.git"
+  },
+  "author": "Christoph Machuletz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chris-machuletz/nuxt-playground/issues"
+  },
+  "homepage": "https://github.com/chris-machuletz/nuxt-playground#readme"
+}
